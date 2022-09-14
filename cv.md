@@ -15,7 +15,7 @@ I started my IT education in 2021 with a book: "Head First HTML and CSS"(Elisabe
 ## __Skills__
 * HTML
 * CSS (SASS/SCSS, BEM)
-* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
+* JavaScript (Fundamentals, ES6+, DOM, JSON, JavaScript)
 * Git/GitHub
 * React
 
